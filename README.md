@@ -1,1 +1,1 @@
-# glrectangle
+# openglstudy
